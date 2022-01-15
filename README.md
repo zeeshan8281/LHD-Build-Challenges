@@ -7,3 +7,6 @@
 
 3)listsort.py - Creating a python program which takes a user defined number list and prints it out in ascending order
 ("https://github.com/zeeshan8281/LHD-Build-Challenges/blob/main/listsort.py")
+
+4)useless_hack.html - Created a hack for a totally useless invention
+(https://github.com/zeeshan8281/LHD-Build-Challenges/blob/main/useless_hack.html)
